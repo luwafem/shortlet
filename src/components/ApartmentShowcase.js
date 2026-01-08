@@ -27,7 +27,7 @@ const ApartmentShowcase = ({ apartments, activeTab, onTabChange, onTourClick }) 
           {onTourClick && (
             <button 
               onClick={() => onTourClick('image')}
-              className="mt-6 bg-primary-600 text-white px-6 py-3 rounded-lg hover:bg-primary-700 transition-colors inline-flex items-center focus:outline-none focus:ring-2 focus:ring-primary-500"
+              className="mt-6 bg-primary-600 text-black px-6 py-3 rounded-lg hover:bg-primary-700 transition-colors inline-flex items-center focus:outline-none focus:ring-2 focus:ring-primary-500"
             >
               Schedule Building Tour →
             </button>

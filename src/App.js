@@ -17,10 +17,10 @@ function App() {
   const [selectedApartment, setSelectedApartment] = useState(null);
 
   const config = {
-    buildingName: "3T's LUXURY APARTMENTS",
-    address: "123 Luxury Avenue, Downtown",
-    city: "New York, NY 10001",
-    contactEmail: "bookings@grandresidences.com",
+    buildingName: "lustrohomes",
+    address: "37A ibukunolu street",
+    city: "Yaba lagos Nigeria",
+    contactEmail: "bookings@lustrohomesesidences.com",
     contactPhone: "+1 (212) 555-1234",
     socialLinks: {
       facebook: "#",
