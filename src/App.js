@@ -21,7 +21,7 @@ function App() {
     address: "37A ibukunolu street",
     city: "Yaba lagos Nigeria",
     contactEmail: "bookings@lustrohomesesidences.com",
-    contactPhone: "+1 (212) 555-1234",
+    contactPhone: "09053034565",
     socialLinks: {
       facebook: "#",
       twitter: "#",
